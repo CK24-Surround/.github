@@ -1,11 +1,11 @@
 <p align=center>
-    <img src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-logo.png" alt="Logo" width="auto" height="200"/>
+    <img src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-logo.png" alt="Logo" width="auto" height="220"/>
 </p>
 <p align=center>
-    <img src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-title.png" alt="Title" width="auto" height="100"/>
+    <img src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-title.png" alt="Title" width="auto" height="70"/>
 </p>
 
-<p align="center">2024 CK GAME. Surround.</p>
+<p align="center">2024 CK GAME. SURROUND.</p>
 
 <!-- ###### FOOTER ##### -->
 
