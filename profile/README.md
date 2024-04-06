@@ -1,8 +1,9 @@
 <p align=center>
-    <img src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-logo.png" alt="Logo" width="auto" height="220"/>
+    <img alt="Logo" src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-logo.png" width="200"/>
 </p>
+
 <p align=center>
-    <img src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-title.png" alt="Title" width="auto" height="70"/>
+    <img alt="Title" src="https://raw.githubusercontent.com/CK24-Surround/.github/main/images/surround-title.png" width="300"/>
 </p>
 
 <p align="center">2024 CK GAME. SURROUND.</p>
